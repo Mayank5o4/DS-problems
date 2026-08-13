@@ -1,7 +1,7 @@
 class Solution {
 public:
     int numberOfSubarrays(vector<int>& nums, int k) {
-        const size_t n = nums.size();
+        int n = nums.size();
         int i=0, j=0, oddcnt=0, prev=0;
         int res=0;
         while(j<n){
