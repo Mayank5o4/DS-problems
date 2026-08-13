@@ -7,15 +7,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mayank5o4/DS-problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Mayank5o4/DS-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayank5o4/DS-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
 | ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/Mayank5o4/DS-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayank5o4/DS-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sliding Window
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mayank5o4/DS-problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Mayank5o4/DS-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayank5o4/DS-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
@@ -33,8 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mayank5o4/DS-problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Mayank5o4/DS-problems/tree/master/1248-count-number-of-nice-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mayank5o4/DS-problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Math
+|  |
+| ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/Mayank5o4/DS-problems/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
