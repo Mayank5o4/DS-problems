@@ -1,7 +1,7 @@
 class Solution {
 public:
     int longestEqualSubarray(vector<int>& nums, int k) {
-        size_t n = nums.size();
+        const size_t n = nums.size();
         unordered_map<int, int> mp;
         int i=0, j=0, maxf=0, res=0;
         while(j<n){
