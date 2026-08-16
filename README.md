@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2831-find-the-longest-equal-subarray](https://github.com/Mayank5o4/DS-problems/tree/master/2831-find-the-longest-equal-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayank5o4/DS-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Mayank5o4/DS-problems/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Mayank5o4/DS-problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2831-find-the-longest-equal-subarray](https://github.com/Mayank5o4/DS-problems/tree/master/2831-find-the-longest-equal-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayank5o4/DS-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mayank5o4/DS-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Mayank5o4/DS-problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 ## Sliding Window
 |  |
 | ------- |
