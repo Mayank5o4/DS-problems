@@ -19,7 +19,7 @@ public:
         size_t n = nums.size();
         if (n < 1LL * m * k)
             return -1;
-        int st = *min_element(nums.begin(), nums.end());
+        int st = 1;
         int end = *max_element(nums.begin(), nums.end());
         while (st < end) {
             int mid = st + (end - st) / 2;
