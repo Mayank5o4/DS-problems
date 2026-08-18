@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Mayank5o4/DS-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mayank5o4/DS-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mayank5o4/DS-problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mayank5o4/DS-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mayank5o4/DS-problems/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2831-find-the-longest-equal-subarray](https://github.com/Mayank5o4/DS-problems/tree/master/2831-find-the-longest-equal-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayank5o4/DS-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mayank5o4/DS-problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mayank5o4/DS-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mayank5o4/DS-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mayank5o4/DS-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2831-find-the-longest-equal-subarray](https://github.com/Mayank5o4/DS-problems/tree/master/2831-find-the-longest-equal-subarray) |
 ## Queue
 |  |
