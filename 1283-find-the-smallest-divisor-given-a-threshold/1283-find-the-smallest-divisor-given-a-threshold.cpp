@@ -4,11 +4,8 @@ public:
         int divSum = 0;
         for (int& num : nums) {
             divSum += (num + mid - 1) / mid;
-            if (divSum > threshold) {
-                return false;
-            }
         }
-        return true;
+        return divSum <= threshold;
     }
     int smallestDivisor(vector<int>& nums, int threshold) {
         constexpr int VAL = 1e6;
