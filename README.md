@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Mayank5o4/DS-problems/tree/master/0410-split-array-largest-sum) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Mayank5o4/DS-problems/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mayank5o4/DS-problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mayank5o4/DS-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Mayank5o4/DS-problems/tree/master/0410-split-array-largest-sum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mayank5o4/DS-problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mayank5o4/DS-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mayank5o4/DS-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Mayank5o4/DS-problems/tree/master/0410-split-array-largest-sum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mayank5o4/DS-problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mayank5o4/DS-problems/tree/master/1248-count-number-of-nice-subarrays) |
 ## Monotonic Queue
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Mayank5o4/DS-problems/tree/master/0410-split-array-largest-sum) |
 | [1025-divisor-game](https://github.com/Mayank5o4/DS-problems/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -98,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Mayank5o4/DS-problems/tree/master/1025-divisor-game) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Mayank5o4/DS-problems/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
