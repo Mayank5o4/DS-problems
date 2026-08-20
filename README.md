@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Mayank5o4/DS-problems/tree/master/0410-split-array-largest-sum) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Mayank5o4/DS-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Mayank5o4/DS-problems/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mayank5o4/DS-problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mayank5o4/DS-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Mayank5o4/DS-problems/tree/master/0410-split-array-largest-sum) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Mayank5o4/DS-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mayank5o4/DS-problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mayank5o4/DS-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mayank5o4/DS-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -85,11 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Mayank5o4/DS-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mayank5o4/DS-problems/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Mayank5o4/DS-problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Two Pointers
 |  |
 | ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Mayank5o4/DS-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Mayank5o4/DS-problems/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Mayank5o4/DS-problems/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Dynamic Programming
