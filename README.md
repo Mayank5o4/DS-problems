@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayank5o4/DS-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Mayank5o4/DS-problems/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mayank5o4/DS-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mayank5o4/DS-problems/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Mayank5o4/DS-problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Mayank5o4/DS-problems/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2831-find-the-longest-equal-subarray](https://github.com/Mayank5o4/DS-problems/tree/master/2831-find-the-longest-equal-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayank5o4/DS-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mayank5o4/DS-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mayank5o4/DS-problems/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Mayank5o4/DS-problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 ## Sliding Window
 |  |
@@ -126,12 +128,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Mayank5o4/DS-problems/tree/master/0410-split-array-largest-sum) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Mayank5o4/DS-problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mayank5o4/DS-problems/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Stack
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Mayank5o4/DS-problems/tree/master/0456-132-pattern) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mayank5o4/DS-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2390-removing-stars-from-a-string](https://github.com/Mayank5o4/DS-problems/tree/master/2390-removing-stars-from-a-string) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mayank5o4/DS-problems/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Simulation
 |  |
 | ------- |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/Mayank5o4/DS-problems/tree/master/0456-132-pattern) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mayank5o4/DS-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mayank5o4/DS-problems/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Ordered Set
 |  |
 | ------- |
