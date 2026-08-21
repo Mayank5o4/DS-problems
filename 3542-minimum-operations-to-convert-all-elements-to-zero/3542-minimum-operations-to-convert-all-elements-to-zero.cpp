@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums) {
-        const size_t n = nums.size();
+        unsigned n = nums.size();
         int ops = 0;
         stack<int> st;
         for (int i = 0; i < n; i++) {
