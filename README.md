@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Mayank5o4/DS-problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mayank5o4/DS-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mayank5o4/DS-problems/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2831-find-the-longest-equal-subarray](https://github.com/Mayank5o4/DS-problems/tree/master/2831-find-the-longest-equal-subarray) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Mayank5o4/DS-problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/Mayank5o4/DS-problems/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mayank5o4/DS-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mayank5o4/DS-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Mayank5o4/DS-problems/tree/master/0456-132-pattern) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Mayank5o4/DS-problems/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
