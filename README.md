@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mayank5o4/DS-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0456-132-pattern](https://github.com/Mayank5o4/DS-problems/tree/master/0456-132-pattern) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mayank5o4/DS-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2390-removing-stars-from-a-string](https://github.com/Mayank5o4/DS-problems/tree/master/2390-removing-stars-from-a-string) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mayank5o4/DS-problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mayank5o4/DS-problems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -177,4 +179,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mayank5o4/DS-problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mayank5o4/DS-problems/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Mayank5o4/DS-problems/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
