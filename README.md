@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Mayank5o4/DS-problems/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/Mayank5o4/DS-problems/tree/master/0456-132-pattern) |
+| [0692-top-k-frequent-words](https://github.com/Mayank5o4/DS-problems/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Mayank5o4/DS-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Mayank5o4/DS-problems/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mayank5o4/DS-problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/Mayank5o4/DS-problems/tree/master/0692-top-k-frequent-words) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mayank5o4/DS-problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mayank5o4/DS-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mayank5o4/DS-problems/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/Mayank5o4/DS-problems/tree/master/0692-top-k-frequent-words) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mayank5o4/DS-problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1094-car-pooling](https://github.com/Mayank5o4/DS-problems/tree/master/1094-car-pooling) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mayank5o4/DS-problems/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -99,12 +102,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/Mayank5o4/DS-problems/tree/master/0692-top-k-frequent-words) |
 | [2351-first-letter-to-appear-twice](https://github.com/Mayank5o4/DS-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/Mayank5o4/DS-problems/tree/master/2390-removing-stars-from-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mayank5o4/DS-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/Mayank5o4/DS-problems/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Mayank5o4/DS-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1094-car-pooling](https://github.com/Mayank5o4/DS-problems/tree/master/1094-car-pooling) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Mayank5o4/DS-problems/tree/master/1552-magnetic-force-between-two-balls) |
@@ -193,5 +198,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/Mayank5o4/DS-problems/tree/master/0692-top-k-frequent-words) |
 | [2351-first-letter-to-appear-twice](https://github.com/Mayank5o4/DS-problems/tree/master/2351-first-letter-to-appear-twice) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Mayank5o4/DS-problems/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Mayank5o4/DS-problems/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
