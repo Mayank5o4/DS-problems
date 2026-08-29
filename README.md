@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mayank5o4/DS-problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mayank5o4/DS-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mayank5o4/DS-problems/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2351-first-letter-to-appear-twice](https://github.com/Mayank5o4/DS-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2831-find-the-longest-equal-subarray](https://github.com/Mayank5o4/DS-problems/tree/master/2831-find-the-longest-equal-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayank5o4/DS-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mayank5o4/DS-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/Mayank5o4/DS-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/Mayank5o4/DS-problems/tree/master/2390-removing-stars-from-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mayank5o4/DS-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
@@ -184,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mayank5o4/DS-problems/tree/master/0144-binary-tree-preorder-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/Mayank5o4/DS-problems/tree/master/2351-first-letter-to-appear-twice) |
+## Counting
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/Mayank5o4/DS-problems/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
