@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mayank5o4/DS-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Mayank5o4/DS-problems/tree/master/1552-magnetic-force-between-two-balls) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Mayank5o4/DS-problems/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Mayank5o4/DS-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mayank5o4/DS-problems/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Mayank5o4/DS-problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2831-find-the-longest-equal-subarray](https://github.com/Mayank5o4/DS-problems/tree/master/2831-find-the-longest-equal-subarray) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Mayank5o4/DS-problems/tree/master/0410-split-array-largest-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Mayank5o4/DS-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Mayank5o4/DS-problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mayank5o4/DS-problems/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Stack
