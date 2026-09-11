@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mayank5o4/DS-problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mayank5o4/DS-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mayank5o4/DS-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1535-find-the-winner-of-an-array-game](https://github.com/Mayank5o4/DS-problems/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Mayank5o4/DS-problems/tree/master/1552-magnetic-force-between-two-balls) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Mayank5o4/DS-problems/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Mayank5o4/DS-problems/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/Mayank5o4/DS-problems/tree/master/1094-car-pooling) |
+| [1535-find-the-winner-of-an-array-game](https://github.com/Mayank5o4/DS-problems/tree/master/1535-find-the-winner-of-an-array-game) |
 | [2390-removing-stars-from-a-string](https://github.com/Mayank5o4/DS-problems/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mayank5o4/DS-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mayank5o4/DS-problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
