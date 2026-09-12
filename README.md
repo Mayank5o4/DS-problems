@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mayank5o4/DS-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mayank5o4/DS-problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mayank5o4/DS-problems/tree/master/3483-unique-3-digit-even-numbers) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/Mayank5o4/DS-problems/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mayank5o4/DS-problems/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mayank5o4/DS-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Mayank5o4/DS-problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayank5o4/DS-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mayank5o4/DS-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mayank5o4/DS-problems/tree/master/3483-unique-3-digit-even-numbers) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/Mayank5o4/DS-problems/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mayank5o4/DS-problems/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mayank5o4/DS-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Mayank5o4/DS-problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/Mayank5o4/DS-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/Mayank5o4/DS-problems/tree/master/2390-removing-stars-from-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mayank5o4/DS-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/Mayank5o4/DS-problems/tree/master/3522-calculate-score-after-performing-instructions) |
 ## Sorting
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Mayank5o4/DS-problems/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mayank5o4/DS-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mayank5o4/DS-problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/Mayank5o4/DS-problems/tree/master/3522-calculate-score-after-performing-instructions) |
 ## Monotonic Stack
 |  |
 | ------- |
