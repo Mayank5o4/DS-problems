@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mayank5o4/DS-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Mayank5o4/DS-problems/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Mayank5o4/DS-problems/tree/master/1552-magnetic-force-between-two-balls) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Mayank5o4/DS-problems/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Mayank5o4/DS-problems/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Mayank5o4/DS-problems/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mayank5o4/DS-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Mayank5o4/DS-problems/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/Mayank5o4/DS-problems/tree/master/0410-split-array-largest-sum) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Mayank5o4/DS-problems/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mayank5o4/DS-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Mayank5o4/DS-problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mayank5o4/DS-problems/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Mayank5o4/DS-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0456-132-pattern](https://github.com/Mayank5o4/DS-problems/tree/master/0456-132-pattern) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mayank5o4/DS-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Mayank5o4/DS-problems/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2390-removing-stars-from-a-string](https://github.com/Mayank5o4/DS-problems/tree/master/2390-removing-stars-from-a-string) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mayank5o4/DS-problems/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Simulation
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/Mayank5o4/DS-problems/tree/master/0456-132-pattern) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mayank5o4/DS-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Mayank5o4/DS-problems/tree/master/1673-find-the-most-competitive-subsequence) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mayank5o4/DS-problems/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Ordered Set
 |  |
