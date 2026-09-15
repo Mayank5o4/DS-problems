@@ -1,13 +1,11 @@
 class Solution {
 public:
     int maximumProduct(vector<int>& nums, int k) {
-        priority_queue<int, vector<int>, greater<int>> pq;
+        priority_queue<int, vector<int>, greater<int>> pq(begin(nums),
+                                                          end(nums));
         size_t n = nums.size();
         long long mul = 1;
         int ops = 0, modulo = 1e9 + 7;
-        for (int i = 0; i < n; i++) {
-            pq.push(nums[i]);
-        }
         while (ops < k) {
             int i = pq.top();
             pq.pop();
