@@ -9,7 +9,8 @@ public:
         while (ops < k) {
             int i = pq.top();
             pq.pop();
-            pq.push(i + 1);
+            i++;
+            pq.push(i);
             ops++;
         }
         while (!pq.empty()) {
