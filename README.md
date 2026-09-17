@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Mayank5o4/DS-problems/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayank5o4/DS-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/Mayank5o4/DS-problems/tree/master/0692-top-k-frequent-words) |
+| [1768-merge-strings-alternately](https://github.com/Mayank5o4/DS-problems/tree/master/1768-merge-strings-alternately) |
 | [2351-first-letter-to-appear-twice](https://github.com/Mayank5o4/DS-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/Mayank5o4/DS-problems/tree/master/2390-removing-stars-from-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mayank5o4/DS-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Mayank5o4/DS-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Mayank5o4/DS-problems/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [1768-merge-strings-alternately](https://github.com/Mayank5o4/DS-problems/tree/master/1768-merge-strings-alternately) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Mayank5o4/DS-problems/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Dynamic Programming
 |  |
