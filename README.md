@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mayank5o4/DS-problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/Mayank5o4/DS-problems/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Mayank5o4/DS-problems/tree/master/0905-sort-array-by-parity) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Mayank5o4/DS-problems/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0973-k-closest-points-to-origin](https://github.com/Mayank5o4/DS-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mayank5o4/DS-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1094-car-pooling](https://github.com/Mayank5o4/DS-problems/tree/master/1094-car-pooling) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Mayank5o4/DS-problems/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Mayank5o4/DS-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0905-sort-array-by-parity](https://github.com/Mayank5o4/DS-problems/tree/master/0905-sort-array-by-parity) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Mayank5o4/DS-problems/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0973-k-closest-points-to-origin](https://github.com/Mayank5o4/DS-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/Mayank5o4/DS-problems/tree/master/1094-car-pooling) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Mayank5o4/DS-problems/tree/master/1552-magnetic-force-between-two-balls) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Mayank5o4/DS-problems/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/Mayank5o4/DS-problems/tree/master/0410-split-array-largest-sum) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Mayank5o4/DS-problems/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Mayank5o4/DS-problems/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mayank5o4/DS-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2233-maximum-product-after-k-increments](https://github.com/Mayank5o4/DS-problems/tree/master/2233-maximum-product-after-k-increments) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayank5o4/DS-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/Mayank5o4/DS-problems/tree/master/0692-top-k-frequent-words) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Mayank5o4/DS-problems/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [2351-first-letter-to-appear-twice](https://github.com/Mayank5o4/DS-problems/tree/master/2351-first-letter-to-appear-twice) |
 ## Trie
 |  |
