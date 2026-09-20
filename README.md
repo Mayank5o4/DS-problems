@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/Mayank5o4/DS-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/Mayank5o4/DS-problems/tree/master/2390-removing-stars-from-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mayank5o4/DS-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/Mayank5o4/DS-problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/Mayank5o4/DS-problems/tree/master/3522-calculate-score-after-performing-instructions) |
 ## Sorting
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Mayank5o4/DS-problems/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mayank5o4/DS-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mayank5o4/DS-problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Mayank5o4/DS-problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/Mayank5o4/DS-problems/tree/master/3522-calculate-score-after-performing-instructions) |
 ## Monotonic Stack
 |  |
