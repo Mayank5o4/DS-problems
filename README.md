@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Mayank5o4/DS-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mayank5o4/DS-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Mayank5o4/DS-problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/Mayank5o4/DS-problems/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mayank5o4/DS-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mayank5o4/DS-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Mayank5o4/DS-problems/tree/master/1535-find-the-winner-of-an-array-game) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Mayank5o4/DS-problems/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0973-k-closest-points-to-origin](https://github.com/Mayank5o4/DS-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/Mayank5o4/DS-problems/tree/master/1094-car-pooling) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/Mayank5o4/DS-problems/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Mayank5o4/DS-problems/tree/master/1552-magnetic-force-between-two-balls) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mayank5o4/DS-problems/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Mayank5o4/DS-problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Mayank5o4/DS-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Mayank5o4/DS-problems/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0905-sort-array-by-parity](https://github.com/Mayank5o4/DS-problems/tree/master/0905-sort-array-by-parity) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/Mayank5o4/DS-problems/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1768-merge-strings-alternately](https://github.com/Mayank5o4/DS-problems/tree/master/1768-merge-strings-alternately) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Mayank5o4/DS-problems/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Dynamic Programming
