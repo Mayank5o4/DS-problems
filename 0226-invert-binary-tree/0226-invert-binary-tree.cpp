@@ -11,7 +11,9 @@ public:
             while (size--) {
                 TreeNode* curr = q.front();
                 q.pop();
-                swap(curr->left, curr->right);
+                TreeNode* temp = curr->left;
+                curr->left = curr->right;
+                curr->right = temp;
                 if (curr->left != NULL) {
                     q.push(curr->left);
                 }
