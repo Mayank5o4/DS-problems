@@ -11,12 +11,10 @@ public:
         while (!q.empty()) {
             size_t size = q.size();
             ll sum = 0;
-
             while (size--) {
                 TreeNode* curr = q.front();
                 q.pop();
                 sum += curr->val;
-
                 if (curr->left != NULL) {
                     q.push(curr->left);
                 }
