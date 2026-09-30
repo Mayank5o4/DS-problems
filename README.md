@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mayank5o4/DS-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mayank5o4/DS-problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/Mayank5o4/DS-problems/tree/master/3522-calculate-score-after-performing-instructions) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Mayank5o4/DS-problems/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Mayank5o4/DS-problems/tree/master/0905-sort-array-by-parity) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Mayank5o4/DS-problems/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1768-merge-strings-alternately](https://github.com/Mayank5o4/DS-problems/tree/master/1768-merge-strings-alternately) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Mayank5o4/DS-problems/tree/master/3884-first-matching-character-from-both-ends) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Mayank5o4/DS-problems/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Dynamic Programming
 |  |
