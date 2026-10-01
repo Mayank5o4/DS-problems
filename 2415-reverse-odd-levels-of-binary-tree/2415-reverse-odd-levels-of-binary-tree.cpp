@@ -24,7 +24,7 @@ public:
             if (lvl % 2 != 0) {
                 size_t n = ans.size();
                 int i = 0, j = n - 1;
-                while (i <= j) {
+                while (i < j) {
                     swap(ans[i++]->val, ans[j--]->val);
                 }
             }
