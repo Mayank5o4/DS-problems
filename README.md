@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-calculate-score-after-performing-instructions](https://github.com/Mayank5o4/DS-problems/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mayank5o4/DS-problems/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mayank5o4/DS-problems/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Mayank5o4/DS-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Mayank5o4/DS-problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Mayank5o4/DS-problems/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mayank5o4/DS-problems/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Mayank5o4/DS-problems/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Mayank5o4/DS-problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Mayank5o4/DS-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2233-maximum-product-after-k-increments](https://github.com/Mayank5o4/DS-problems/tree/master/2233-maximum-product-after-k-increments) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Mayank5o4/DS-problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mayank5o4/DS-problems/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Mayank5o4/DS-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
 | ------- |
