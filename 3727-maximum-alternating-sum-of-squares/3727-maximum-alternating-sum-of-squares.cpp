@@ -1,0 +1,12 @@
+class Solution {
+public:
+    long long maxAlternatingSum(vector<int>& nums) {
+        size_t n = nums.size();
+        for (auto& num : nums) {
+            num *= num;
+        }
+        ranges::sort(nums);
+        return -accumulate(nums.begin(), nums.begin() + n / 2, 0ll) +
+               accumulate(nums.begin() + n / 2, nums.end(), 0ll);
+    }
+};
