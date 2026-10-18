@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Mayank5o4/DS-problems/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mayank5o4/DS-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mayank5o4/DS-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Mayank5o4/DS-problems/tree/master/2523-closest-prime-numbers-in-range) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mayank5o4/DS-problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mayank5o4/DS-problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
@@ -362,16 +363,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Mayank5o4/DS-problems/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Mayank5o4/DS-problems/tree/master/2523-closest-prime-numbers-in-range) |
 ## Primality Test
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Mayank5o4/DS-problems/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Mayank5o4/DS-problems/tree/master/2523-closest-prime-numbers-in-range) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Mayank5o4/DS-problems/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Mayank5o4/DS-problems/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Mayank5o4/DS-problems/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Mayank5o4/DS-problems/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
