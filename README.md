@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mayank5o4/DS-problems/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Mayank5o4/DS-problems/tree/master/2594-minimum-time-to-repair-cars) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Mayank5o4/DS-problems/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Mayank5o4/DS-problems/tree/master/2761-prime-pairs-with-target-sum) |
 | [2831-find-the-longest-equal-subarray](https://github.com/Mayank5o4/DS-problems/tree/master/2831-find-the-longest-equal-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayank5o4/DS-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Mayank5o4/DS-problems/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Mayank5o4/DS-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mayank5o4/DS-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Mayank5o4/DS-problems/tree/master/2523-closest-prime-numbers-in-range) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Mayank5o4/DS-problems/tree/master/2761-prime-pairs-with-target-sum) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mayank5o4/DS-problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mayank5o4/DS-problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
@@ -358,12 +360,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Mayank5o4/DS-problems/tree/master/0204-count-primes) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Mayank5o4/DS-problems/tree/master/2761-prime-pairs-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mayank5o4/DS-problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Mayank5o4/DS-problems/tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Mayank5o4/DS-problems/tree/master/2523-closest-prime-numbers-in-range) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Mayank5o4/DS-problems/tree/master/2761-prime-pairs-with-target-sum) |
 ## Primality Test
 |  |
 | ------- |
