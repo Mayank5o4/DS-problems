@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Mayank5o4/DS-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Mayank5o4/DS-problems/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mayank5o4/DS-problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0867-transpose-matrix](https://github.com/Mayank5o4/DS-problems/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/Mayank5o4/DS-problems/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Mayank5o4/DS-problems/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Mayank5o4/DS-problems/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Mayank5o4/DS-problems/tree/master/0867-transpose-matrix) |
 | [1094-car-pooling](https://github.com/Mayank5o4/DS-problems/tree/master/1094-car-pooling) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Mayank5o4/DS-problems/tree/master/1535-find-the-winner-of-an-array-game) |
 | [2390-removing-stars-from-a-string](https://github.com/Mayank5o4/DS-problems/tree/master/2390-removing-stars-from-a-string) |
@@ -397,4 +399,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Mayank5o4/DS-problems/tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Mayank5o4/DS-problems/tree/master/2523-closest-prime-numbers-in-range) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Mayank5o4/DS-problems/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
