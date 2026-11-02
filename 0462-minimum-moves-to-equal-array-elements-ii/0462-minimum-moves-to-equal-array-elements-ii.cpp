@@ -5,7 +5,7 @@ public:
         size_t n = nums.size();
         int res = 0, i = 0;
         while (i < n) {
-            res += abs(nums[i] - nums[n / 2]);
+            res += abs(nums[n / 2] - nums[i]);
             i++;
         }
         return res;
