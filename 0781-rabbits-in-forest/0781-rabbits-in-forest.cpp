@@ -1,0 +1,21 @@
+class Solution {
+public:
+    int numRabbits(vector<int>& nums) {
+        map<int, int> mp;
+        int ans = 0;
+        for (auto num : nums) {
+            if (num == 0) {
+                ans++;
+            } else {
+                if (mp[num] == 0) {
+                    ans += num + 1;
+                }
+                mp[num]++;
+                if (mp[num] == num + 1) {
+                    mp[num] = 0;
+                }
+            }
+        }
+        return ans;
+    }
+};
