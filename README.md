@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mayank5o4/DS-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0692-top-k-frequent-words](https://github.com/Mayank5o4/DS-problems/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Mayank5o4/DS-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0781-rabbits-in-forest](https://github.com/Mayank5o4/DS-problems/tree/master/0781-rabbits-in-forest) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Mayank5o4/DS-problems/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mayank5o4/DS-problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0867-transpose-matrix](https://github.com/Mayank5o4/DS-problems/tree/master/0867-transpose-matrix) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayank5o4/DS-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/Mayank5o4/DS-problems/tree/master/0692-top-k-frequent-words) |
+| [0781-rabbits-in-forest](https://github.com/Mayank5o4/DS-problems/tree/master/0781-rabbits-in-forest) |
 | [0904-fruit-into-baskets](https://github.com/Mayank5o4/DS-problems/tree/master/0904-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mayank5o4/DS-problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mayank5o4/DS-problems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Mayank5o4/DS-problems/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mayank5o4/DS-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mayank5o4/DS-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0781-rabbits-in-forest](https://github.com/Mayank5o4/DS-problems/tree/master/0781-rabbits-in-forest) |
 | [0836-rectangle-overlap](https://github.com/Mayank5o4/DS-problems/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Mayank5o4/DS-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mayank5o4/DS-problems/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Mayank5o4/DS-problems/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/Mayank5o4/DS-problems/tree/master/0410-split-array-largest-sum) |
+| [0781-rabbits-in-forest](https://github.com/Mayank5o4/DS-problems/tree/master/0781-rabbits-in-forest) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Mayank5o4/DS-problems/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Mayank5o4/DS-problems/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mayank5o4/DS-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
