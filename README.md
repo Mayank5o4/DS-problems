@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Mayank5o4/DS-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0781-rabbits-in-forest](https://github.com/Mayank5o4/DS-problems/tree/master/0781-rabbits-in-forest) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Mayank5o4/DS-problems/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [0849-maximize-distance-to-closest-person](https://github.com/Mayank5o4/DS-problems/tree/master/0849-maximize-distance-to-closest-person) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Mayank5o4/DS-problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0867-transpose-matrix](https://github.com/Mayank5o4/DS-problems/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/Mayank5o4/DS-problems/tree/master/0904-fruit-into-baskets) |
